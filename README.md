@@ -54,9 +54,12 @@ The backend code is structured as follows:
 ## Contributions
 Contributions are welcome! Fork the repository, make changes, and submit pull requests.
 
-## License
-This project is licensed under the [ISC License](https://opensource.org/licenses/ISC).
-
-## Contact
-For any inquiries or discussions, feel free to reach out.
+## Screenshots from the App
+![1](https://github.com/SocratisNikolopoulos/Coding-Factory-Final-Project-BackEnd/assets/135650308/b4fa419c-75b1-4f2b-b52b-79e8b35561c7)
+![2](https://github.com/SocratisNikolopoulos/Coding-Factory-Final-Project-BackEnd/assets/135650308/d5abbb18-6707-4ec3-bcbb-e61c9e3a6a60)
+![3](https://github.com/SocratisNikolopoulos/Coding-Factory-Final-Project-BackEnd/assets/135650308/a6520897-70ad-48b1-b156-f22f9e5d2aa1)
+![4](https://github.com/SocratisNikolopoulos/Coding-Factory-Final-Project-BackEnd/assets/135650308/a57962a9-bc56-44b6-877d-56d1154cd113)
+![5](https://github.com/SocratisNikolopoulos/Coding-Factory-Final-Project-BackEnd/assets/135650308/a7beeff1-22ca-410c-8072-9b7cbce79da3)
+![6](https://github.com/SocratisNikolopoulos/Coding-Factory-Final-Project-BackEnd/assets/135650308/b6c395cf-1783-4cf9-836d-b8b37e23467c)
+![7](https://github.com/SocratisNikolopoulos/Coding-Factory-Final-Project-BackEnd/assets/135650308/c4d2502a-253d-4d9e-b132-f592475b2f79)
 
